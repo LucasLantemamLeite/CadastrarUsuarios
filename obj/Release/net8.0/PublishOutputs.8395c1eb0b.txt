@@ -1,0 +1,5 @@
+B:\GitHub\C#\Executavel\Teste\CadastroUsuarios.exe
+B:\GitHub\C#\Executavel\Teste\CadastroUsuarios.dll
+B:\GitHub\C#\Executavel\Teste\CadastroUsuarios.deps.json
+B:\GitHub\C#\Executavel\Teste\CadastroUsuarios.runtimeconfig.json
+B:\GitHub\C#\Executavel\Teste\CadastroUsuarios.pdb
