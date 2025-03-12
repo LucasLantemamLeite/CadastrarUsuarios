@@ -9,7 +9,7 @@ namespace CadastrarUsuarios
 
             while (true)
             {
-                if (int.TryParse(Console.ReadLine(), out var escolhaUsuario) && escolhaUsuario > 0 && escolhaUsuario <= 5)
+                if (int.TryParse(Console.ReadLine(), out var escolhaUsuario) && escolhaUsuario > 0 && escolhaUsuario <= 4)
                 {
                     switch (escolhaUsuario)
                     {
@@ -25,7 +25,7 @@ namespace CadastrarUsuarios
                             CadastrarUsuarios.CRUD.Select.ListarUsuarios();
                             break;
 
-                        case 5:
+                        case 4:
                             Console.WriteLine("Saindo...");
                             Thread.Sleep(500);
                             System.Environment.Exit(0);
