@@ -1,8 +1,11 @@
 **Cadastro de Usuário - Console App**
-Descrição
-Aplicativo de console simples para gerenciar o cadastro de usuários, utilizando .NET Core e Dapper para interação com o banco de dados **SQL Server** e simulando com **docker**.
 
-Funcionalidades: 
+**Descrição:**
+
+Aplicativo de console simples para gerenciar o cadastro de usuários, utilizando .NET Core e Dapper para interação com o banco de dados **SQL Server** e simulando com **Docker**.
+
+**Funcionalidades:**
+
 **Cadastrar novo usuário 📝:** Adiciona um novo usuário com nome e data de nascimento.
 
 **Deletar usuários existente ❌:** Exclui um usuário pelo ID.
