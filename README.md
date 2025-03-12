@@ -12,8 +12,6 @@ Aplicativo de console simples para gerenciar o cadastro de usuários, utilizando
 
 **Listar todos os usuários 👥:** Exibe todos os usuários cadastrados.
 
-**Alterar dados existentes:** Alterar um campo por um Id.
-
 **Sair 🚪:** Encerra o programa.
 
 **Tecnologias:**
@@ -25,6 +23,7 @@ Instalação:
 Clone o repositório e acesse a pasta do projeto.
 
 Instale o pacote **Dapper** e o **ADO.NET** utilizando o comando **dotnet add package Dapper** e **dotnet add package System.Data.SqlClient**.
+
 Configure a string de conexão no arquivo "CRUD/Conexao" para o seu banco de dados.
 
 Crie a tabela de usuários no banco de dados com o seguinte comando SQL:
